@@ -124,4 +124,10 @@ async function findOrCreateDocument(id) {
   }
 }
 
+
+
+app.get('/3000', (req, res) => {
+  res.json({ message: 'Hello ' });
+});
+
 console.log(`🚀 Server running on port ${PORT}`)
