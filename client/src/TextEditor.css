@@ -1,0 +1,92 @@
+/* .editor-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .dark-theme {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+  
+  .toolbar-container {
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .dark-theme .toolbar-container {
+    background-color: #2d2d2d;
+  }
+  
+  .document-title {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .ql-toolbar {
+    border: 1px solid #ddd;
+  }
+  
+  .dark-theme .ql-toolbar {
+    border: 1px solid #444;
+  }
+  
+  .ql-container {
+    height: 100%;
+  }
+  
+  .dark-theme .ql-container {
+    background-color: #2d2d2d;
+    color: #eee;
+  }
+   */
+
+
+
+
+   .editor-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .dark-theme {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+  
+  .toolbar-container {
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .dark-theme .toolbar-container {
+    background-color: #2d2d2d;
+  }
+  
+  .document-title {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .ql-toolbar {
+    border: 1px solid #ddd;
+  }
+  
+  .dark-theme .ql-toolbar {
+    border: 1px solid #444;
+  }
+  
+  .ql-container {
+    height: 100%;
+  }
+  
+  .dark-theme .ql-container {
+    background-color: #2d2d2d;
+    color: #eee;
+  }
+  
